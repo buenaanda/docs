@@ -50,7 +50,7 @@ In this tutorial, Raghav will show you how to:
 *   Step 8: Open webDriverAgent.xcodeproj in Xcode  
     Build project with targets as shown in demo
 *   Step 9: Build WebDriverAgent  
-    xcodebuild -project WebDriverAgent.xcodeproj -scheme WebDriverAgentRunner -destination 'id=A9F18306-6B22-442B-99F4-F217A5EE8D38' test
+    xcodebuild -project WebDriverAgent.xcodeproj -scheme WebDriverAgentRunner -destination id='A9F18306-6B22-442B-99F4-F217A5EE8D38' test
 *   Step 10: Goto Katalon Studio  
     Connect to iOS device/simulator  
     Test, Run and Validate
